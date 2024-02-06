@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvbQ2qqnWthOG76/pTof9s2QW9yaxNHbQtT9VIum3tQlfHH0pnQdNZed7Irt/Wl2xgCCNPZfyTOegpreCjK/DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ab306830\\Source\\Repos\\Khorne101\\csong\\csong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ab306830\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\ab306830\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
